@@ -1,0 +1,7 @@
+langchain
+sentence-transformers
+ctransformers
+fastapi
+python-box
+streamlit
+langchain-community

@@ -1,0 +1,5 @@
+langchain
+langchain-experimental
+openai
+google-search-results
+wikipedia
